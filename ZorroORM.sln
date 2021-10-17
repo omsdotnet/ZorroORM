@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZorroORM", "src\ZorroORM\ZorroORM.csproj", "{252AFA93-4695-4A46-897D-2694C49302AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZorroORM.Example", "src\ZorroORM.Example\ZorroORM.Example.csproj", "{3B5308B9-C1AD-44A7-98BC-DEE628CD1BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252AFA93-4695-4A46-897D-2694C49302AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252AFA93-4695-4A46-897D-2694C49302AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252AFA93-4695-4A46-897D-2694C49302AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252AFA93-4695-4A46-897D-2694C49302AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5308B9-C1AD-44A7-98BC-DEE628CD1BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5308B9-C1AD-44A7-98BC-DEE628CD1BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5308B9-C1AD-44A7-98BC-DEE628CD1BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5308B9-C1AD-44A7-98BC-DEE628CD1BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85110CC9-D3C0-408E-9EE0-7A17E61861F1}
+	EndGlobalSection
+EndGlobal
