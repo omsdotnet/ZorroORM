@@ -7,7 +7,7 @@ www.nuget.org/packages/zorroorm/
 
 ### Database Tools
 
-* https://sqlitebrowser.org/
+* https://sqlitebrowser.org
 
 
 # Project Promo:
