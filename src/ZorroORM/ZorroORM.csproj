@@ -7,6 +7,10 @@
     <RepositoryUrl>https://github.com/omsdotnet/ZorroORM</RepositoryUrl>
     <PackageIcon>128x128.png</PackageIcon>
     <PackageIconUrl />
+    <Version>1.0.1</Version>
+    <Description>Radically simple ORM based by mapping interfaces</Description>
+    <Authors>ZorroORM</Authors>
+    <Company>ZorroORM</Company>
   </PropertyGroup>
 
   <ItemGroup>
