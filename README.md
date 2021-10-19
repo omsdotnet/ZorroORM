@@ -5,7 +5,7 @@ Radically simple ORM based by mapping interfaces
 www.nuget.org/packages/zorroorm/
 
 
-### Database Tools
+### Database tools for example
 
 * https://sqlitebrowser.org
 
